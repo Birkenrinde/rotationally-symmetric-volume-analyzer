@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+.venv/
+ENV/
+env/
+pip-log.txt
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
