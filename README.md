@@ -130,10 +130,10 @@ This means you are free to use, modify, and distribute this software for any pur
 
 ## Acknowledgments
 
-The core methodology implemented in this project was developed by Person in his bachelor's thesis at the Institute of Something at University.
+The core methodology implemented in this project was developed by Finn Herold for his bachelor's thesis at the Institute of Mineral Engineering / Institut für Gesteinshüttenkunde (GHI) - RWTH Aachen University .
 
 This work was inspired by and builds upon the foundational paper on machine vision for volume measurement by Bradshaw *et al.*:
 
 > R. C. Bradshaw, D. P. Schmidt, J. R. Rogers, K. F. Kelton, and R. W. Hyers, “Machine vision for high-precision volume measurement applied to levitated containerless material processing,” *Review of Scientific Instruments*, vol. 76, no. 12, 2005. [https://doi.org/10.1063/1.2140490](https://doi.org/10.1063/1.2140490)
 
-This repository contains a further developed and refactored version of the original code, adapted for broader use and public release.
+This repository contains a further developed and refactored version of the original bachelor thisis code, adapted for broader use and public release.
